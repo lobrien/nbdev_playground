@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_playground"
+  site-url: "https://lobrien.github.io/nbdev_playground"
+  description: "Test repo"
+  repo-branch: master
+  repo-url: "https://github.com/lobrien/nbdev_playground"
